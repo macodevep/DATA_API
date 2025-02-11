@@ -1,0 +1,15 @@
+# Ignorar archivos de entorno virtual
+venv/
+env/
+
+# Ignorar archivos de Python compilados
+__pycache__/
+*.pyc
+
+# Ignorar archivos de configuración local
+.venv
+.vscode/
+
+# Ignorar archivos de datos temporales
+datos/
+temp/
